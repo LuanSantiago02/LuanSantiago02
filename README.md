@@ -3,15 +3,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-santiago-58781a249/)
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___luan.sant)
 
-<div>
-    <a href="https://github.com/LuanSantiago02">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan&show_icons=true&theme=radical"/>
-</div>
+### GitHub Analytics ⚙️
+
+![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanSantiago&show_icons=true&theme=dracula)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSantiago02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Tecnologias 
+### Tecnologias 🤖
 
 <div style="display: incline_block"><br/>
     <img align="center" alt ="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
